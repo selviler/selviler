@@ -7,7 +7,7 @@ I have also published and developed some php & laravel packages. My development 
 
 You can find me on:
 
-- **[Packagist](https://packagist.org/users/slvlr/packages/)** You can see all my development packages.
+- **[Packagist](https://packagist.org/users/slvler/packages/)** You can see all my development packages.
 - **[DockerHub](https://hub.docker.com/u/slvlr)** You can see the docker images I've published.
 - **[LeetCode](https://leetcode.com/slvlr/)** You can view the algorithm questions I solved.
 
