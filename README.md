@@ -1,6 +1,6 @@
 ### Hey everyone, slvler here 👋
 
-Hello, I am a software developer living in Turkey. My interests include php, java and javascript.
+Hello, I am a software developer living in Turkey. My interests include php, python and javascript.
 
 I contributed to some open source projects. [laravel-lang](https://github.com/Laravel-Lang/lang) and [collabnix-dockerlabs](https://github.com/collabnix/dockerlabs).
 I have also published and developed some php & laravel packages. My development packages:  [PHP-MySQL-Class](https://github.com/slvler/PHP-MySQL-Class), [Yapikredi-Posnet-Service](https://github.com/slvler/Yapikredi-Posnet-Service), [laravel-fontawesome](https://github.com/slvler/laravel-fontawesome) and [TMDB](https://github.com/slvler/TMDB)
