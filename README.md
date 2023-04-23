@@ -1,13 +1,27 @@
 ### Hey everyone, slvler here 👋
 
-Hello, I am a software developer living in Turkey. My interests include php, python and javascript.
+Hello, I am a software developer living in Turkey. My interests include php, python and javascript. I also published and developed some php & laravel and python packages.
 
-I contributed to some open source projects. [laravel-lang](https://github.com/Laravel-Lang/lang) and [collabnix-dockerlabs](https://github.com/collabnix/dockerlabs).
-I have also published and developed some php & laravel packages. My development packages:  [Phone-validation](https://github.com/slvler/phone-validation), [Etherscan-service](https://github.com/slvler/etherscan-service), [PHP-MySQL-Connectors](https://github.com/slvler/php-mysql-connectors) and [Livescore-service](https://github.com/slvler/livescore-service)
+- I contributed to some open source projects. [laravel-lang](https://github.com/Laravel-Lang/lang) and [collabnix-dockerlabs](https://github.com/collabnix/dockerlabs).
+* My development PHP & Laravel packages:  
+  * [Phone-validation](https://github.com/slvler/phone-validation)
+  * [Etherscan-service](https://github.com/slvler/etherscan-service)
+  * [Covalent-service](https://github.com/slvler/covalenthq-service)
+  * [PHP-MySQL-Connectors](https://github.com/slvler/php-mysql-connectors)
+  * [Livescore-service](https://github.com/slvler/livescore-service)
+  * [Btcturk-api](https://github.com/slvler/btcturk-api)
+  * [Helpmate](https://github.com/slvler/helpmate)
+  * [Imdb-service](https://github.com/slvler/Imdb-service)
+  * [Posnet-service](https://github.com/slvler/posnet-payment-service)
+  * [Tmdb-service](https://github.com/slvler/tmdb)
+
+* My development Python packages:  
+  * [eyefootball](https://github.com/slvler/eyefootball)
 
 You can find me on:
 
 - **[Packagist](https://packagist.org/users/slvler/packages/)** You can see all my development packages.
+- **[Pypi](https://pypi.org/user/slvler/)** You can see all my python development packages.
 - **[DockerHub](https://hub.docker.com/u/slvlr)** You can see the docker images I've published.
 - **[LeetCode](https://leetcode.com/slvlr/)** You can view the algorithm questions I solved.
 
