@@ -30,5 +30,5 @@ You can find me on:
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slvler&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="slvler's Most Used GitHub Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slvler&count_private=true&theme=dracula&show_icons=true&hide=scss,css,ejs,javascript&layout=compact&card_width=270" alt="slvler's Most Used GitHub Languages" />
 </a>
