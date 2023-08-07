@@ -24,7 +24,7 @@ You can find me on:
 - **[Packagist](https://packagist.org/users/slvler/packages/)** You can see all my development packages.
 - **[Pypi](https://pypi.org/user/slvler/)** You can see all my python development packages.
 - **[DockerHub](https://hub.docker.com/u/slvler)** You can see the docker images I've published.
-- **[LeetCode](https://leetcode.com/slvlr/)** You can view the algorithm questions I solved.
+- **[LeetCode](https://leetcode.com/slvler/)** You can view the algorithm questions I solved.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=slvler&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="slvler's GitHub Stats" />
