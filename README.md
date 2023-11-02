@@ -25,7 +25,7 @@ Hello, I am a software developer living in Turkey. My interests include php, pyt
 
 You can find me on:
 
-- **[Packagist](https://packagist.org/users/slvler/packages/)** You can see all my development packages.
+- **[Packagist](https://packagist.org/users/slvler)** You can see all my development packages.
 - **[Pypi](https://pypi.org/user/slvler/)** You can see all my python development packages.
 - **[DockerHub](https://hub.docker.com/u/slvler)** You can see the docker images I've published.
 - **[LeetCode](https://leetcode.com/slvler/)** You can view the algorithm questions I solved.
