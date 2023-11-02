@@ -3,7 +3,10 @@
 Hello, I am a software developer living in Turkey. My interests include php, python and javascript. I also published and developed some php & laravel and python packages.
 
 - I contributed to some open source projects. [laravel-lang](https://github.com/Laravel-Lang/lang) and [collabnix-dockerlabs](https://github.com/collabnix/dockerlabs).
-* My development PHP & Laravel packages:  
+* My development PHP & Laravel packages:
+  * [Veriphone-service](https://github.com/slvler/veriphone-service)
+  * [Url-shortener](https://github.com/slvler/laravel-url-shortener)
+  * [Unsplash-service](https://github.com/slvler/unsplash-service)
   * [Phone-validation](https://github.com/slvler/phone-validation)
   * [Etherscan-service](https://github.com/slvler/etherscan-service)
   * [Covalent-service](https://github.com/slvler/covalenthq-service)
@@ -16,6 +19,7 @@ Hello, I am a software developer living in Turkey. My interests include php, pyt
   * [Tmdb-service](https://github.com/slvler/tmdb)
   * [balldontlie-service](https://github.com/slvler/balldontlie-service)
 
+    
 * My development Python packages:  
   * [eyefootball](https://github.com/slvler/eyefootball)
 
