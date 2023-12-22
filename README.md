@@ -16,7 +16,8 @@ Hello, I am a software developer living in Turkey. My interests include php, pyt
   * [`Veriphone-service`](https://github.com/slvler/veriphone-service): veriphone.io service 
   * [`Posnet-service`](https://github.com/slvler/posnet-payment-service): posnet payment system from turkish banks 
   * [`Tmdb-service`](https://github.com/slvler/tmdb): TMDB.com api service for php 
-  * [`Unsplash-service`](https://github.com/slvler/unsplash-service): laravel unsplash wrapper 
+  * [`Unsplash-service`](https://github.com/slvler/unsplash-service): laravel unsplash wrapper
+  * [`Theme-cli`](https://github.com/slvler/theme-cli): theme chooser for laravel apps 
     
 * My development Python packages:  
   * [`eyefootball`](https://github.com/slvler/eyefootball): Link adapter for eyefootball.com rss service 
