@@ -2,23 +2,21 @@
 
 Hello, I am a software developer living in Turkey. My interests include php, python and javascript. I also published and developed some php & laravel and python packages.
 
-- I contributed to some open source projects. [laravel-lang](https://github.com/Laravel-Lang/lang) and [collabnix-dockerlabs](https://github.com/collabnix/dockerlabs).
 * My development PHP & Laravel packages:
-  * [Veriphone-service](https://github.com/slvler/veriphone-service)
-  * [Url-shortener](https://github.com/slvler/laravel-url-shortener)
-  * [Unsplash-service](https://github.com/slvler/unsplash-service)
-  * [Phone-validation](https://github.com/slvler/phone-validation)
-  * [Etherscan-service](https://github.com/slvler/etherscan-service)
-  * [Covalent-service](https://github.com/slvler/covalenthq-service)
-  * [PHP-MySQL-Connectors](https://github.com/slvler/php-mysql-connectors)
-  * [Livescore-service](https://github.com/slvler/livescore-service)
-  * [Btcturk-api](https://github.com/slvler/btcturk-api)
-  * [Helpmate](https://github.com/slvler/helpmate)
-  * [Imdb-service](https://github.com/slvler/Imdb-service)
-  * [Posnet-service](https://github.com/slvler/posnet-payment-service)
-  * [Tmdb-service](https://github.com/slvler/tmdb)
-  * [balldontlie-service](https://github.com/slvler/balldontlie-service)
-
+  * [`Url-shortener`](https://github.com/slvler/laravel-url-shortener): cutt.ly api service 
+  * [`Phone-validation`](https://github.com/slvler/phone-validation): Phone Validation API for app.abstractapi.com 
+  * [`Livescore-service`](https://github.com/slvler/livescore-service): Live Score Client for api-football.com 
+  * [`Etherscan-service`](https://github.com/slvler/etherscan-service): An api service for etherscan.io 
+  * [`balldontlie-service`](https://github.com/slvler/balldontlie-service): balldontlie.io api service 
+  * [`Covalent-service`](https://github.com/slvler/covalenthq-service): Laravel covalenthq.com api service 
+  * [`Imdb-service`](https://github.com/slvler/Imdb-service): php curl for IMDb website information 
+  * [`PHP-MySQL-Connectors`](https://github.com/slvler/php-mysql-connectors): Mysql driver development that can be used on the php side 
+  * [`Btcturk-api`](https://github.com/slvler/btcturk-api): PHP REST API client for btcturk.com 
+  * [`Helpmate`](https://github.com/slvler/helpmate): Laravel helper class 
+  * [`Veriphone-service`](https://github.com/slvler/veriphone-service): veriphone.io service 
+  * [`Posnet-service`](https://github.com/slvler/posnet-payment-service): posnet payment system from turkish banks 
+  * [`Tmdb-service`](https://github.com/slvler/tmdb): TMDB.com api service for php 
+  * [`Unsplash-service`](https://github.com/slvler/unsplash-service): laravel unsplash wrapper 
     
 * My development Python packages:  
   * [eyefootball](https://github.com/slvler/eyefootball)
