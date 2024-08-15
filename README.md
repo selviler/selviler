@@ -17,7 +17,8 @@ Hello, I am a software developer living in Turkey. My interests include php, pyt
   * [`Posnet-service`](https://github.com/slvler/posnet-payment-service): posnet payment system from turkish banks 
   * [`Tmdb-service`](https://github.com/slvler/tmdb): TMDB.com api service for php 
   * [`Unsplash-service`](https://github.com/slvler/unsplash-service): laravel unsplash wrapper
-  * [`Theme-cli`](https://github.com/slvler/theme-cli): theme chooser for laravel apps 
+  * [`Theme-cli`](https://github.com/slvler/theme-cli): theme chooser for laravel apps
+  * [`Whoami`](https://github.com/slvler/whoami): Ip API for Laravel applications 
     
 * My development Python packages:  
   * [`eyefootball`](https://github.com/slvler/eyefootball): Link adapter for eyefootball.com rss service 
@@ -35,5 +36,5 @@ You can find me on:
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slvler&count_private=true&theme=dracula&show_icons=true&hide=python,scss,hack,html,twig,css,ejs,blade&layout=compact&card_width=270" alt="slvler's Most Used GitHub Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slvler&count_private=true&theme=dracula&show_icons=true&layout=compact&card_width=270" alt="slvler's Most Used GitHub Languages" />
 </a>
