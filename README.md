@@ -2,34 +2,30 @@
 
 Hello, I am a software developer living in Turkey. My interests include php, python and javascript. I also published and developed some php & laravel and python packages.
 
-* My development PHP & Laravel packages:
-  * [`Url-shortener`](https://github.com/slvler/laravel-url-shortener): cutt.ly api service 
-  * [`Phone-validation`](https://github.com/slvler/phone-validation): Phone Validation API for app.abstractapi.com 
-  * [`Livescore-service`](https://github.com/slvler/livescore-service): Live Score Client for api-football.com 
-  * [`Etherscan-service`](https://github.com/slvler/etherscan-service): An api service for etherscan.io 
-  * [`balldontlie-service`](https://github.com/slvler/balldontlie-service): balldontlie.io api service 
-  * [`Covalent-service`](https://github.com/slvler/covalenthq-service): Laravel covalenthq.com api service 
-  * [`Imdb-service`](https://github.com/slvler/Imdb-service): php curl for IMDb website information 
-  * [`PHP-MySQL-Connectors`](https://github.com/slvler/php-mysql-connectors): Mysql driver development that can be used on the php side 
-  * [`Btcturk-api`](https://github.com/slvler/btcturk-api): PHP REST API client for btcturk.com 
-  * [`Helpmate`](https://github.com/slvler/helpmate): Laravel helper class 
-  * [`Veriphone-service`](https://github.com/slvler/veriphone-service): veriphone.io service 
-  * [`Posnet-service`](https://github.com/slvler/posnet-payment-service): posnet payment system from turkish banks 
-  * [`Tmdb-service`](https://github.com/slvler/tmdb): TMDB.com api service for php 
-  * [`Unsplash-service`](https://github.com/slvler/unsplash-service): laravel unsplash wrapper
-  * [`Theme-cli`](https://github.com/slvler/theme-cli): theme chooser for laravel apps
-  * [`Whoami`](https://github.com/slvler/whoami): Ip API for Laravel applications 
-    
-* My development Python packages:  
-  * [`eyefootball`](https://github.com/slvler/eyefootball): Link adapter for eyefootball.com rss service 
+### Highlight Projects
+* **[Url-shortener - cutt.ly api service ](https://github.com/slvler/laravel-url-shortener)**
+* **[Phone Validation API for app.abstractapi.com](https://github.com/slvler/phone-validation)**
+* **[Live Score Client for api-football.com](https://github.com/slvler/livescore-service)**
+* **[An api service for etherscan.io ](https://github.com/slvler/etherscan-service)**
+* **[balldontlie.io api service ](https://github.com/slvler/balldontlie-service)**
+* **[Laravel covalenthq.com api service](https://github.com/slvler/covalenthq-service)**
+* **[php curl for IMDb website information](https://github.com/slvler/Imdb-service)**
+* **[Mysql driver development that can be used on the php side](https://github.com/slvler/php-mysql-connectors)**
+* **[PHP REST API client for btcturk.com](https://github.com/slvler/btcturk-api)**
+* **[Laravel helper class](https://github.com/slvler/helpmate)**
+* **[veriphone.io service](https://github.com/slvler/veriphone-service)**
+* **[posnet payment system from turkish banks ](https://github.com/slvler/posnet-payment-service)**
+* **[TMDB.com api service for php](https://github.com/slvler/tmdb)**
+* **[laravel unsplash wrapper](https://github.com/slvler/unsplash-service)**
+* **[theme chooser for laravel apps](https://github.com/slvler/theme-cli)**
+* **[Ip API for Laravel applications](https://github.com/slvler/whoami)**
+* **[Link adapter for eyefootball.com rss service](https://github.com/slvler/eyefootball)**
 
-You can find me on:
-
-* Platform
-  * [`Packagist`](https://packagist.org/users/slvler)** You can see all my development packages.
-  * [`Pypi`](https://pypi.org/user/slvler/)** You can see all my python development packages.
-  * [`DockerHub`](https://hub.docker.com/u/slvler)** You can see the docker images I've published.
-  * [`LeetCode`](https://leetcode.com/slvler/)** You can view the algorithm questions I solved.
+### You can find me on:
+* **[Packagist](https://packagist.org/users/slvler)**
+* **[Pypi](https://pypi.org/user/slvler)**
+* **[DockerHub](https://hub.docker.com/u/slvler)**
+* **[LeetCode](https://leetcode.com/slvler)**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=slvler&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="slvler's GitHub Stats" />
