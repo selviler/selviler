@@ -1,6 +1,6 @@
 ### Hey everyone, slvler here 👋
 
-Hello, I am a software developer living in Turkey. My interests include php, python and javascript. I also published and developed some php & laravel and python packages.
+Hello, I am a software developer. My interests include php, python and javascript. I also published and developed some php & laravel and python packages.
 
 ### Highlight Projects
 * **[Url-shortener - cutt.ly api service ](https://github.com/slvler/laravel-url-shortener)**
