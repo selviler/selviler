@@ -25,7 +25,7 @@ Hello, I am a software developer. My interests include python and java. I also p
 * **[Packagist](https://packagist.org/users/slvler)**
 * **[Pypi](https://pypi.org/user/slvler)**
 * **[DockerHub](https://hub.docker.com/u/slvler)**
-* **[LeetCode](https://leetcode.com/slvler)**
+* **[LeetCode](https://leetcode.com/selviler)**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=selviler&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="selviler's GitHub Stats" />
